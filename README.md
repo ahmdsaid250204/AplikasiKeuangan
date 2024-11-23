@@ -1,2 +1,0 @@
-# AplikasiKeuangan
-UTS PBO2
